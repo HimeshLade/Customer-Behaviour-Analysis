@@ -39,4 +39,4 @@ Dataset not included due to size limitations.
 - Add predictive modeling for customer behavior
 - Deploy dashboard as a web app
 - Integrate real-time data processing
-![Dashboard](visuals/dashboard.png)
+![Dashboard](visuals/customer_dashboard.png)
